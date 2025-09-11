@@ -24,6 +24,12 @@ We corrected unusual values in price, discount, and total revenue by converting 
 
 We identified and removed 5 duplicate rows.
 
+## 🍘🍜🍣 Outliers 🍣🍜🍘
+We will remove values in the total revenue column that fall outside the interquartile range (IQR), specifically those below 0 or above 14,107,250 million.
+We identified 12 rows exceeding the upper bound, and these rows were subsequently removed.
+
+<img width="194" height="144" alt="image" src="https://github.com/user-attachments/assets/e21e825b-eb1f-484e-a7b9-82f7ce5c59b8" />
+
 
 ## 🍘🍜🍣 License 🍣🍜🍘
 - Copyright by Diantya Pitaloka
