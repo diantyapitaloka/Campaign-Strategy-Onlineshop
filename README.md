@@ -12,6 +12,10 @@ The goal is to determine which strategy delivered the best results while optimiz
 
 To identify the campaign strategy (A, B, or C) that maximizes revenue and transaction volume while minimizing costs, in order to optimize the campaign performance for the upcoming month.
 
+## 🍘🍜🍣 Business Metrics 🍣🍜🍘 
+
+
+<img width="242" height="265" alt="image" src="https://github.com/user-attachments/assets/69102504-7144-40e5-ae7d-dfa08755e119" />
 
 
 ## 🍘🍜🍣 License 🍣🍜🍘
