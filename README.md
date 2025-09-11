@@ -17,6 +17,13 @@ To identify the campaign strategy (A, B, or C) that maximizes revenue and transa
 
 <img width="242" height="265" alt="image" src="https://github.com/user-attachments/assets/69102504-7144-40e5-ae7d-dfa08755e119" />
 
+## 🍘🍜🍣 Data Cleansing 🍣🍜🍘 
+After filtering, empty rows were removed and missing values in price, quantity, discount, and status were filled or deemed non-critical based on analysis.
+
+We corrected unusual values in price, discount, and total revenue by converting them to IDR currency format, and standardized customer IDs to a six-digit format.
+
+We identified and removed 5 duplicate rows.
+
 
 ## 🍘🍜🍣 License 🍣🍜🍘
 - Copyright by Diantya Pitaloka
