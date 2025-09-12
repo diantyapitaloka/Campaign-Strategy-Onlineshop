@@ -45,6 +45,17 @@ We identified 12 rows exceeding the upper bound, and these rows were subsequentl
 <img width="218" height="275" alt="image" src="https://github.com/user-attachments/assets/0ee2b5cd-860f-4471-95a4-7dbe49ce1878" />
 
 
+## 🍘🍜🍣 Campaign Performance Comparison 🍣🍜🍘
+
+TRANSACTIONS AND PRODUCTS SOLD CONSISTENTLY INCREASED
+increased from October to December, despite a slight drop in customers in December.
+
+REVENUE FOLLOWED THE CAMPAIGN BUDGET TREND 
+rising with higher budget and slightly decreasing as the budget dropped.
+
+AGGRESSIVE DISCOUNTING EFFECTIVELY BOOSTED SALES 
+showing efficient use of budget even with fewer customers.
+
 
 ## 🍘🍜🍣 License 🍣🍜🍘
 - Copyright by Diantya Pitaloka
