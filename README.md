@@ -50,17 +50,17 @@ We identified 12 rows exceeding the upper bound, and these rows were subsequentl
 TRANSACTIONS AND PRODUCTS SOLD CONSISTENTLY INCREASED
 - increased from October to December, despite a slight drop in customers in December.
 
-REVENUE FOLLOWED THE CAMPAIGN BUDGET TREND 
-- rising with higher budget and slightly decreasing as the budget dropped.
-
-AGGRESSIVE DISCOUNTING EFFECTIVELY BOOSTED SALES 
-- showing efficient use of budget even with fewer customers.
-
 <img width="114" height="182" alt="image" src="https://github.com/user-attachments/assets/b82b8229-8d50-4903-9d9a-9e91d94bb6e6" />
 
 
+REVENUE FOLLOWED THE CAMPAIGN BUDGET TREND 
+- rising with higher budget and slightly decreasing as the budget dropped.
+  
 <img width="107" height="189" alt="image" src="https://github.com/user-attachments/assets/06f56743-21db-4ae2-a938-6c895d995403" />
 
+
+AGGRESSIVE DISCOUNTING EFFECTIVELY BOOSTED SALES 
+- showing efficient use of budget even with fewer customers.
 
 <img width="167" height="148" alt="image" src="https://github.com/user-attachments/assets/ee762951-93ea-454e-9a5a-6213a188b078" />
 
