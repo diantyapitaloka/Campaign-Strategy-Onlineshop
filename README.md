@@ -66,5 +66,7 @@ AGGRESSIVE DISCOUNTING EFFECTIVELY BOOSTED SALES
 
 
 
+## 🍘🍜🍣 Total Revenue Discount Ratio 🍣🍜🍘
+
 ## 🍘🍜🍣 License 🍣🍜🍘
 - Copyright by Diantya Pitaloka
