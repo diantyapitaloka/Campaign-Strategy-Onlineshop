@@ -75,5 +75,12 @@ AGGRESSIVE DISCOUNTING EFFECTIVELY BOOSTED SALES
 <img width="340" height="625" alt="image" src="https://github.com/user-attachments/assets/e84fb7a6-4277-4b7a-881d-21a2352dcb83" />
 
 
+## 🍘🍜🍣  Best Selling Product with Lowest Campaign Budget 🍣🍜🍘
+Men’s Fashion is the best-selling product across all campaigns, with the highest revenue recorded and it has a smaller discount compared to other categories.
+
+<img width="416" height="122" alt="image" src="https://github.com/user-attachments/assets/695e59a8-d6d1-469d-a557-86864bc47e8e" />
+
+
+
 ## 🍘🍜🍣 License 🍣🍜🍘
 - Copyright by Diantya Pitaloka
