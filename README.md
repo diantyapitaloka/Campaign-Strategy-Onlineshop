@@ -67,6 +67,13 @@ AGGRESSIVE DISCOUNTING EFFECTIVELY BOOSTED SALES
 
 
 ## 🍘🍜🍣 Total Revenue Discount Ratio 🍣🍜🍘
+- Solid start with a revenue discount ratio of 53,833, but lower than the other campaigns.
+- Slight improvement at 54,924, still trailing behind the 12/12 campaign.
+- Highest revenue discount ratio at 58,541, showing the most successful discount strategy.
+
+
+<img width="340" height="625" alt="image" src="https://github.com/user-attachments/assets/e84fb7a6-4277-4b7a-881d-21a2352dcb83" />
+
 
 ## 🍘🍜🍣 License 🍣🍜🍘
 - Copyright by Diantya Pitaloka
