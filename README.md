@@ -81,6 +81,13 @@ Men’s Fashion is the best-selling product across all campaigns, with the highe
 <img width="416" height="122" alt="image" src="https://github.com/user-attachments/assets/695e59a8-d6d1-469d-a557-86864bc47e8e" />
 
 
+## 🍘🍜🍣  Highest Ratio Revenue  🍣🍜🍘
+Men’s Fashion consistently delivers the best ROI across all campaigns, it’s the most efficient category in terms of profit for every discount spent.
+
+<img width="272" height="272" alt="image" src="https://github.com/user-attachments/assets/be5703f1-87d1-48e5-9699-f50f28f62c7b" />
+
+
+
 
 ## 🍘🍜🍣 License 🍣🍜🍘
 - Copyright by Diantya Pitaloka
