@@ -87,6 +87,10 @@ Men’s Fashion consistently delivers the best ROI across all campaigns, it’s 
 <img width="272" height="272" alt="image" src="https://github.com/user-attachments/assets/be5703f1-87d1-48e5-9699-f50f28f62c7b" />
 
 
+## 🍘🍜🍣  Hypothesis Testing 🍣🍜🍘
+The P-value analysis shows that campaign have significant differences in total revenue. This highlights that campaigns closer to the end of the year (11/11 and 12/12) tend to perform better.
+
+
 
 
 ## 🍘🍜🍣 License 🍣🍜🍘
