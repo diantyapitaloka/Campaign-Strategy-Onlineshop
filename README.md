@@ -14,6 +14,7 @@ To identify the campaign strategy (A, B, or C) that maximizes revenue and transa
 
 
 ## 🍘🍜🍣 Business Metrics 🍣🍜🍘 
+Here is the business metrics below :
 <img width="242" height="265" alt="image" src="https://github.com/user-attachments/assets/69102504-7144-40e5-ae7d-dfa08755e119" />
 
 
