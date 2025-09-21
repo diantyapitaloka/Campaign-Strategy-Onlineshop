@@ -95,6 +95,7 @@ The P-value analysis shows that campaign have significant differences in total r
 
 
 ## 🍘🍜🍣  Overall Insight and Recommendation 🍣🍜🍘
+Here is the overall insight and recommendation below :
 
 <img width="517" height="110" alt="image" src="https://github.com/user-attachments/assets/a0371ce2-6191-488e-b778-1a6b25f532ef" />
 
