@@ -4,7 +4,7 @@
 - The core of the campaign is the Flash Sale, a time-bound promotion where high-demand products are offered at steep discounts (often up to 90%). These are scheduled in "waves" (e.g., 12 AM, 12 PM, and 8 PM) to create a sense of urgency and encourage repeat visits throughout the day.
 - Free shipping is the primary "conversion engine." By removing the friction of delivery costs for all transactions, Toko A lowers the barrier to entry for price-sensitive customers, often requiring a "Minimum Spend" of $0 during specific peak hours to drive massive volume.
 - To keep users on the app or site longer, the campaign includes Gamification. This involves simple in-app games (e.g., "Tap & Win" or "Daily Check-in") where users earn coins, points, or exclusive vouchers that can be redeemed during the Twin Date event.
-- Toko A likely employs Loss Leaders—specific popular items (like iPhones or branded sneakers) sold at or below cost price. While the company may lose money on these specific units, they serve as "hooks" to draw millions of users into the ecosystem who then purchase other, more profitable items.
+- Toko A likely employs Loss Leaders—specific popular items (like iPhones or branded sneakers) sold at or below cost price. While the company may lose money on these specific units, they serve as "hooks" to draw millions of users into the ecosystem who then purchase other, more profitable items on category.
 
 
 ## 🍘🍜🍣 Problem Goals 🍣🍜🍘 
