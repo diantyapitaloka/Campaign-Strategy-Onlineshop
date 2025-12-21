@@ -3,6 +3,7 @@
 - Toko A offers a wide range of products, including fashion, electronics, home living, and more. Every twin date, the company runs a special campaign featuring a major flash sale promotion and free shipping for all transactions.
 - The core of the campaign is the Flash Sale, a time-bound promotion where high-demand products are offered at steep discounts (often up to 90%). These are scheduled in "waves" (e.g., 12 AM, 12 PM, and 8 PM) to create a sense of urgency and encourage repeat visits throughout the day.
 - Free shipping is the primary "conversion engine." By removing the friction of delivery costs for all transactions, Toko A lowers the barrier to entry for price-sensitive customers, often requiring a "Minimum Spend" of $0 during specific peak hours to drive massive volume.
+- To keep users on the app or site longer, the campaign includes Gamification. This involves simple in-app games (e.g., "Tap & Win" or "Daily Check-in") where users earn coins, points, or exclusive vouchers that can be redeemed during the Twin Date event.
 
 
 ## 🍘🍜🍣 Problem Goals 🍣🍜🍘 
