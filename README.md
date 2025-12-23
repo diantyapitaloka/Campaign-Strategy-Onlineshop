@@ -8,7 +8,7 @@
 - Toko A can utilize 24-hour Live Stream Marathons leading up to and during the twin date. Influencers or shop hosts showcase products in real-time, offering "Live-Only" coupons. This adds a layer of social proof and entertainment (shoppertainment), keeping users engaged during the "lull" periods between flash sale waves.
 - Tiered Early Access: Provide high-tier loyalty members with early access to flash sales to reward retention and manage server traffic store.
 - Post-Event Retention Loops: Issuing "Bounce-back Vouchers" during the event that are only valid for the following week, ensuring that the spike in traffic translates into long-term shopping habits rather than a one-time visit.
-
+- Real-Time Scarcity & Social Proof: Using live stock trackers (e.g., "90% Sold Out") and "Recent Purchase" pop-ups to create intense FOMO (Fear Of Missing Out), pushing undecided users to complete their checkout immediately.
 
 ## 🍘🍜🍣 Problem Goals 🍣🍜🍘 
 The goal is to determine which strategy delivered the best results while optimizing the campaign budget, ensuring maximum return on investment.
