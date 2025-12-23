@@ -7,6 +7,7 @@
 - Toko A likely employs Loss Leaders—specific popular items (like iPhones or branded sneakers) sold at or below cost price. While the company may lose money on these specific units, they serve as "hooks" to draw millions of users into the ecosystem who then purchase other, more profitable items on category shop.
 - Toko A can utilize 24-hour Live Stream Marathons leading up to and during the twin date. Influencers or shop hosts showcase products in real-time, offering "Live-Only" coupons. This adds a layer of social proof and entertainment (shoppertainment), keeping users engaged during the "lull" periods between flash sale waves.
 - Tiered Early Access: Provide high-tier loyalty members with early access to flash sales to reward retention and manage server traffic store.
+- Post-Event Retention Loops: Issuing "Bounce-back Vouchers" during the event that are only valid for the following week, ensuring that the spike in traffic translates into long-term shopping habits rather than a one-time visit.
 
 
 ## 🍘🍜🍣 Problem Goals 🍣🍜🍘 
