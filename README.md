@@ -1,6 +1,7 @@
 ## 🍘🍜🍣 Campaign Strategy of Online Store 🍣🍜🍘 
 
 - Toko A offers a wide range of products, including fashion, electronics, home living, and more. Every twin date, the company runs a special campaign featuring a major flash sale promotion and free shipping for all transactions.
+- Influencer "Cart Reveals": Partner with creators to share their "Twin Date Shopping Cart" videos 48 hours before the event starts. This allows followers to "pre-save" those specific items, building massive organic anticipation and pre-event traffic.
 - Localized Cluster Marketing: Use geo-targeting to promote specific product categories that are trending in particular regions or cities. By tailoring the landing page to local weather or cultural events, Toko A increases relevance and click-through rates.
 - Dynamic Countdown Timers: Every product page should feature a personalized countdown timer synchronized with the next "Wave" of discounts. This visual ticking clock heightens the psychological pressure and reinforces the "once-a-year" nature of the prices.
 - The core of the campaign is the Flash Sale, a time-bound promotion where high-demand products are offered at steep discounts (often up to 90%). These are scheduled in "waves" (e.g., 12 AM, 12 PM, and 8 PM) to create a sense of urgency and encourage repeat visits throughout the day.
