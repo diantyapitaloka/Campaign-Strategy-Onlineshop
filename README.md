@@ -2,6 +2,9 @@
 
 - Toko A offers a wide range of products, including fashion, electronics, home living, and more. Every twin date, the company runs a special campaign featuring a major flash sale promotion and free shipping for all transactions.
 - Influencer "Cart Reveals": Partner with creators to share their "Twin Date Shopping Cart" videos 48 hours before the event starts. This allows followers to "pre-save" those specific items, building massive organic anticipation and pre-event traffic.
+- Post-Purchase "Share-to-Win": Provide customers with a unique link after checkout that gives them a chance to win a full refund if their friends also make a purchase. This turns the post-purchase "high" into a secondary wave of referral marketing while the event is still live.
+- 
+- 
 - Early-Bird "Check-in" Rewards: Encourage users to visit the app daily for seven days leading up to the sale to collect "Event Coins" or exclusive vouchers. This habit-building mechanic ensures Toko A is the first app a user opens the moment the clock strikes midnight.
 - Tiered "Spending Spree" Milestones: Offer escalating rewards, such as a 5% discount for spending $50 and a 15% discount plus a premium gift for spending $200. This strategy effectively nudges customers to add "filler items" to their carts to hit the next threshold, boosting your AOV.
 - Localized Cluster Marketing: Use geo-targeting to promote specific product categories that are trending in particular regions or cities. By tailoring the landing page to local weather or cultural events, Toko A increases relevance and click-through rates.
