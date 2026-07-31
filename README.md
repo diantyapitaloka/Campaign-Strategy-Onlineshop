@@ -40,8 +40,7 @@
 - Automated "Lock-It-In" Pre-Orders: Customers pre-authorize purchases for wishlist items at target prices, enabling automatic checkouts during flash sales and securing guaranteed revenue beforehand.
 - "Category Champions" Voting Battle: Users vote between competing product categories to unlock an extra 10% sitewide discount for the winning category during the final hours of the event.
 - Post-Checkout "Gift-a-Friend" Tickets: Buyers instantly receive shareable digital tickets on their order confirmation page, turning successful checkouts into immediate peer-to-peer referral links.
-
-"Failed-to-Grab" Safety Net: Automated pop-ups instantly offer matching discounts on alternative items when a user misses out on a sold-out flash deal, recovering lost sales frictionlessly.
+- "Failed-to-Grab" Safety Net: Automated pop-ups instantly offer matching discounts on alternative items when a user misses out on a sold-out flash deal, recovering lost sales frictionlessly.
 
 ## 🍘🍜🍣 Problem Goals 🍣🍜🍘 
 The goal is to determine which strategy delivered the best results while optimizing the campaign budget, ensuring maximum return on investment.
