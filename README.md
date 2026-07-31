@@ -34,8 +34,7 @@
 - Post-Event Retention Loops: Issuing "Bounce-back Vouchers" during the event that are only valid for the following week, ensuring that the spike in traffic translates into long-term shopping habits rather than a one-time visit.
 - Real-Time Scarcity & Social Proof: Using live stock trackers (e.g., "90% Sold Out") and "Recent Purchase" pop-ups to create intense FOMO (Fear Of Missing Out), pushing undecided users to complete their checkout immediately.
 - "Cart Swap" Social Swap-Stakes: Users share their wishlists on social media for a chance to win both their cart and a friend's paid in full by Toko A.
-
-Live "Zero-Dollar" Mystery Bidding: A reverse-auction game during off-peak livestreams keeps viewers glued to the app by letting them claim high-value items as prices start at $0 and rise every second.
+- Live "Zero-Dollar" Mystery Bidding: A reverse-auction game during off-peak livestreams keeps viewers glued to the app by letting them claim high-value items as prices start at $0 and rise every second.
 
 "Surprise Drop" Geofenced Outposts: Physical QR-code billboards placed in busy city hubs drive offline foot traffic to download the app and claim region-exclusive Twin Date vouchers.
 
