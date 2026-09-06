@@ -1,6 +1,6 @@
 ## 🍘🍜🍣 Campaign Strategy of Online Store 🍣🍜🍘 
 
-- Toko A offers a wide range of products, including fashion, electronics, home living, and more. Every twin date, the company runs a special campaign featuring a major flash sale promotion and free shipping for all transactions.
+- Toko A offers a wide range of product, including fashion, electronics, home living, and more. Every twin date, the company runs a special campaign featuring a major flash sale promotion and free shipping for all transactions.
 - Influencer "Cart Reveals": Partner with creators to share their "Twin Date Shopping Cart" videos 48 hours before the event starts. This allows followers to "pre-save" those specific items, building massive organic anticipation and pre-event traffic.
 - Enable a social shopping feature where users can unlock deeper discounts on specific high-ticket items if they invite 2–3 friends to purchase the same item within a 3-hour windows. This turns existing customers into active promoters and lowers customer acquisition costs (CAC).
 - Immediately after a user checks out their cart, award them a time-sensitive cashback voucher valid only for the final 3 hours of the Twin Date sale. This is incentivize impulse second-purchases from customers who have already completed their main shopping list.
